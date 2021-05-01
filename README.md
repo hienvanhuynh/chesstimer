@@ -6,3 +6,5 @@ In current verson it only allow Blitz chess, 3min+2.
 3. Press space to finish your turn, switch to the opponent turn (or click leftclick or rightclick depend on which side belong to you).
 4. When timeout, the clock will ring
 5. Start new game: back to step 2
+
+[![Watch the video](thumbnail.png)](./demo.mp4)
