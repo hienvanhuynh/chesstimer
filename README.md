@@ -7,4 +7,4 @@ In current verson it only allow Blitz chess, 3min+2.
 4. When timeout, the clock will ring
 5. Start new game: back to step 2
 
-[![Watch the video](thumbnail.png)](./demo.mp4)
+[![Watch the video](thumbnail.png)](https://github.com/hvhq/chesstimer/blob/main/demo.mp4)
